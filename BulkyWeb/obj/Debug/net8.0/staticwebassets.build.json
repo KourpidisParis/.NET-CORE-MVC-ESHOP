@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "snCITb361jgi+BXzzOIB/JIF1cNO1wKwBulTtBtwn9g=",
+  "Hash": "a7U0WaZytH7UWzQsilXPt1OO6y3bCyWtXI6lGP4ikYE=",
   "Source": "BulkyWeb",
   "BasePath": "_content/BulkyWeb",
   "Mode": "Default",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "c2tiyv64ts",
-      "Integrity": "pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=",
+      "Fingerprint": "wkp9aim6gq",
+      "Integrity": "QGTQevBjEbvqKbOMqnqhsTKcxolOm6XOIyl+yTfk/qg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -136,8 +136,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "j9dbo7qmk4",
-      "Integrity": "58t+A1871M8I6MGMRUlOpYXeTIKBN2iNPmy5aPY4iVA=",
+      "Fingerprint": "51jygo1ksg",
+      "Integrity": "J+v1vF7D9XfQCPWJse98yllWEJgeE98gnIUCjKFhqNA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
@@ -1485,51 +1485,6 @@
       ]
     },
     {
-      "Route": "css/site.c2tiyv64ts.css",
-      "AssetFile": "C:\\Users\\user\\source\\repos\\Bulky\\BulkyWeb\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "362"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 22 Dec 2024 12:03:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "c2tiyv64ts"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
-        }
-      ]
-    },
-    {
       "Route": "css/site.css",
       "AssetFile": "C:\\Users\\user\\source\\repos\\Bulky\\BulkyWeb\\wwwroot\\css\\site.css",
       "Selectors": [],
@@ -1540,7 +1495,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "11912"
         },
         {
           "Name": "Content-Type",
@@ -1548,11 +1503,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"QGTQevBjEbvqKbOMqnqhsTKcxolOm6XOIyl+yTfk/qg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 22 Dec 2024 12:03:20 GMT"
+          "Value": "Sun, 12 Jan 2025 12:24:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1562,7 +1517,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-QGTQevBjEbvqKbOMqnqhsTKcxolOm6XOIyl+yTfk/qg="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.wkp9aim6gq.css",
+      "AssetFile": "C:\\Users\\user\\source\\repos\\Bulky\\BulkyWeb\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11912"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QGTQevBjEbvqKbOMqnqhsTKcxolOm6XOIyl+yTfk/qg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 12:24:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wkp9aim6gq"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QGTQevBjEbvqKbOMqnqhsTKcxolOm6XOIyl+yTfk/qg="
         }
       ]
     },
@@ -1731,6 +1731,51 @@
       ]
     },
     {
+      "Route": "lib/bootstrap/dist/css/bootstrap.51jygo1ksg.css",
+      "AssetFile": "C:\\Users\\user\\source\\repos\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "326830"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J+v1vF7D9XfQCPWJse98yllWEJgeE98gnIUCjKFhqNA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 12:21:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "51jygo1ksg"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-J+v1vF7D9XfQCPWJse98yllWEJgeE98gnIUCjKFhqNA="
+        }
+      ]
+    },
+    {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetFile": "C:\\Users\\user\\source\\repos\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
@@ -1741,7 +1786,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "314594"
+          "Value": "326830"
         },
         {
           "Name": "Content-Type",
@@ -1749,11 +1794,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"58t+A1871M8I6MGMRUlOpYXeTIKBN2iNPmy5aPY4iVA=\""
+          "Value": "\"J+v1vF7D9XfQCPWJse98yllWEJgeE98gnIUCjKFhqNA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 03 Jan 2025 19:09:02 GMT"
+          "Value": "Sun, 12 Jan 2025 12:21:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1763,7 +1808,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-58t+A1871M8I6MGMRUlOpYXeTIKBN2iNPmy5aPY4iVA="
+          "Value": "sha256-J+v1vF7D9XfQCPWJse98yllWEJgeE98gnIUCjKFhqNA="
         }
       ]
     },
@@ -1846,51 +1891,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.j9dbo7qmk4.css",
-      "AssetFile": "C:\\Users\\user\\source\\repos\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "314594"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"58t+A1871M8I6MGMRUlOpYXeTIKBN2iNPmy5aPY4iVA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 03 Jan 2025 19:09:02 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "j9dbo7qmk4"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-58t+A1871M8I6MGMRUlOpYXeTIKBN2iNPmy5aPY4iVA="
         }
       ]
     },

@@ -1,22 +1,22 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\BulkyWeb.95r1tsbkk5.bundle.scp.css'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\BulkyWeb.piiugivf39.bundle.scp.css'))">
       <SourceType>Package</SourceType>
       <SourceId>BulkyWeb</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/BulkyWeb</BasePath>
-      <RelativePath>BulkyWeb.95r1tsbkk5.bundle.scp.css</RelativePath>
+      <RelativePath>BulkyWeb.piiugivf39.bundle.scp.css</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>Reference</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ProjectBundle</AssetTraitValue>
-      <Fingerprint>95r1tsbkk5</Fingerprint>
-      <Integrity>U+PCV6bWsf+YB0f/IqTbVE95EF7p/zr3xqifNqIK+NA=</Integrity>
+      <Fingerprint>piiugivf39</Fingerprint>
+      <Integrity>QQF/8Olmx7U1okB3/Fu6Tj3iAf2DBkm88NQafvxV444=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\BulkyWeb.95r1tsbkk5.bundle.scp.css'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\BulkyWeb.piiugivf39.bundle.scp.css'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))">
       <SourceType>Package</SourceType>

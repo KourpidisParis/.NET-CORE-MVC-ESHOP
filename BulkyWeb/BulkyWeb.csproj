@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
+    <Folder Include="Areas\Admin\Views\Product - Copy\" />
   </ItemGroup>
 
 </Project>

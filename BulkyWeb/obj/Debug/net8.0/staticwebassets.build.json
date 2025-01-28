@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "U/YK+/QgPmG+Vrhg0X/pAYm6NVZAOKCiCEKBm0nAMuQ=",
+  "Hash": "5Duw/bYoLdCZRYsSK2iMsnpYqH0fQwmjUv5oUTlKmeI=",
   "Source": "BulkyWeb",
   "BasePath": "_content/BulkyWeb",
   "Mode": "Default",
@@ -99,6 +99,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\user\\source\\repos\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\2bd06ccb-ff8c-4b34-b317-6dc27d37c190.png",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\source\\repos\\Bulky\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "images/product/2bd06ccb-ff8c-4b34-b317-6dc27d37c190#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2nophzw516",
+      "Integrity": "AlrzNicrciPVPjOWM2JVmC6+m9EwkfmCZTMJcmD/N+w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\2bd06ccb-ff8c-4b34-b317-6dc27d37c190.png"
+    },
+    {
+      "Identity": "C:\\Users\\user\\source\\repos\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\ebf6f1cc-abd9-4a0c-99fc-20329eb10230.png",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\source\\repos\\Bulky\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "images/product/ebf6f1cc-abd9-4a0c-99fc-20329eb10230#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n6so315n0o",
+      "Integrity": "rzsMtgmMnNxU7Koo1T6qNAeonziLcUdLkIl2ZCx4w5w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\ebf6f1cc-abd9-4a0c-99fc-20329eb10230.png"
     },
     {
       "Identity": "C:\\Users\\user\\source\\repos\\Bulky\\BulkyWeb\\wwwroot\\js\\site.js",
@@ -1645,6 +1687,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/2bd06ccb-ff8c-4b34-b317-6dc27d37c190.2nophzw516.png",
+      "AssetFile": "C:\\Users\\user\\source\\repos\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\2bd06ccb-ff8c-4b34-b317-6dc27d37c190.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "60347"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AlrzNicrciPVPjOWM2JVmC6+m9EwkfmCZTMJcmD/N+w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 20:09:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2nophzw516"
+        },
+        {
+          "Name": "label",
+          "Value": "images/product/2bd06ccb-ff8c-4b34-b317-6dc27d37c190.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AlrzNicrciPVPjOWM2JVmC6+m9EwkfmCZTMJcmD/N+w="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/2bd06ccb-ff8c-4b34-b317-6dc27d37c190.png",
+      "AssetFile": "C:\\Users\\user\\source\\repos\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\2bd06ccb-ff8c-4b34-b317-6dc27d37c190.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "60347"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AlrzNicrciPVPjOWM2JVmC6+m9EwkfmCZTMJcmD/N+w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 20:09:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AlrzNicrciPVPjOWM2JVmC6+m9EwkfmCZTMJcmD/N+w="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/ebf6f1cc-abd9-4a0c-99fc-20329eb10230.n6so315n0o.png",
+      "AssetFile": "C:\\Users\\user\\source\\repos\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\ebf6f1cc-abd9-4a0c-99fc-20329eb10230.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13563"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rzsMtgmMnNxU7Koo1T6qNAeonziLcUdLkIl2ZCx4w5w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 19:37:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n6so315n0o"
+        },
+        {
+          "Name": "label",
+          "Value": "images/product/ebf6f1cc-abd9-4a0c-99fc-20329eb10230.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rzsMtgmMnNxU7Koo1T6qNAeonziLcUdLkIl2ZCx4w5w="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/ebf6f1cc-abd9-4a0c-99fc-20329eb10230.png",
+      "AssetFile": "C:\\Users\\user\\source\\repos\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\ebf6f1cc-abd9-4a0c-99fc-20329eb10230.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13563"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rzsMtgmMnNxU7Koo1T6qNAeonziLcUdLkIl2ZCx4w5w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 19:37:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rzsMtgmMnNxU7Koo1T6qNAeonziLcUdLkIl2ZCx4w5w="
         }
       ]
     },

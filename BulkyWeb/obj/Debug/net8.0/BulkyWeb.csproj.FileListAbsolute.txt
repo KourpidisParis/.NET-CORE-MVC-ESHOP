@@ -291,3 +291,4 @@ C:\Users\user\source\repos\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.DataAccess.dll
 C:\Users\user\source\repos\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.Models.dll
 C:\Users\user\source\repos\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.DataAccess.pdb
 C:\Users\user\source\repos\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.Models.pdb
+C:\Users\user\source\repos\Bulky\BulkyWeb\obj\Debug\net8.0\BulkyWeb.MvcApplicationPartsAssemblyInfo.cs

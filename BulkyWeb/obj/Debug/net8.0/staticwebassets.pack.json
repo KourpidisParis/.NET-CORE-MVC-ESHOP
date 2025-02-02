@@ -13,12 +13,16 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\2bd06ccb-ff8c-4b34-b317-6dc27d37c190.png",
-      "PackagePath": "staticwebassets\\images\\product\\2bd06ccb-ff8c-4b34-b317-6dc27d37c190.png"
+      "Id": "C:\\Users\\user\\source\\repos\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\6a2511cf-8559-4347-a756-faad41a18add.png",
+      "PackagePath": "staticwebassets\\images\\product\\6a2511cf-8559-4347-a756-faad41a18add.png"
     },
     {
       "Id": "C:\\Users\\user\\source\\repos\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\ebf6f1cc-abd9-4a0c-99fc-20329eb10230.png",
       "PackagePath": "staticwebassets\\images\\product\\ebf6f1cc-abd9-4a0c-99fc-20329eb10230.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bulky\\BulkyWeb\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
     },
     {
       "Id": "C:\\Users\\user\\source\\repos\\Bulky\\BulkyWeb\\wwwroot\\js\\site.js",

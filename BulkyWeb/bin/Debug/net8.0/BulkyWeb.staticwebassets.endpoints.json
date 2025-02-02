@@ -249,8 +249,8 @@
       ]
     },
     {
-      "Route": "images/product/2bd06ccb-ff8c-4b34-b317-6dc27d37c190.2nophzw516.png",
-      "AssetFile": "images/product/2bd06ccb-ff8c-4b34-b317-6dc27d37c190.png",
+      "Route": "images/product/6a2511cf-8559-4347-a756-faad41a18add.c4rk00uvn4.png",
+      "AssetFile": "images/product/6a2511cf-8559-4347-a756-faad41a18add.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -263,7 +263,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "60347"
+          "Value": "518272"
         },
         {
           "Name": "Content-Type",
@@ -271,31 +271,31 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AlrzNicrciPVPjOWM2JVmC6+m9EwkfmCZTMJcmD/N+w=\""
+          "Value": "\"tJnc8gFYvQXeAR/dzVhAmsg4ZpS9PWKZsiNAsqcQvJ0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 26 Jan 2025 20:09:50 GMT"
+          "Value": "Sat, 01 Feb 2025 18:45:43 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2nophzw516"
+          "Value": "c4rk00uvn4"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-AlrzNicrciPVPjOWM2JVmC6+m9EwkfmCZTMJcmD/N+w="
+          "Value": "sha256-tJnc8gFYvQXeAR/dzVhAmsg4ZpS9PWKZsiNAsqcQvJ0="
         },
         {
           "Name": "label",
-          "Value": "images/product/2bd06ccb-ff8c-4b34-b317-6dc27d37c190.png"
+          "Value": "images/product/6a2511cf-8559-4347-a756-faad41a18add.png"
         }
       ]
     },
     {
-      "Route": "images/product/2bd06ccb-ff8c-4b34-b317-6dc27d37c190.png",
-      "AssetFile": "images/product/2bd06ccb-ff8c-4b34-b317-6dc27d37c190.png",
+      "Route": "images/product/6a2511cf-8559-4347-a756-faad41a18add.png",
+      "AssetFile": "images/product/6a2511cf-8559-4347-a756-faad41a18add.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -308,7 +308,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "60347"
+          "Value": "518272"
         },
         {
           "Name": "Content-Type",
@@ -316,17 +316,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AlrzNicrciPVPjOWM2JVmC6+m9EwkfmCZTMJcmD/N+w=\""
+          "Value": "\"tJnc8gFYvQXeAR/dzVhAmsg4ZpS9PWKZsiNAsqcQvJ0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 26 Jan 2025 20:09:50 GMT"
+          "Value": "Sat, 01 Feb 2025 18:45:43 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-AlrzNicrciPVPjOWM2JVmC6+m9EwkfmCZTMJcmD/N+w="
+          "Value": "sha256-tJnc8gFYvQXeAR/dzVhAmsg4ZpS9PWKZsiNAsqcQvJ0="
         }
       ]
     },
@@ -409,6 +409,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-rzsMtgmMnNxU7Koo1T6qNAeonziLcUdLkIl2ZCx4w5w="
+        }
+      ]
+    },
+    {
+      "Route": "js/product.jj090x1i5l.js",
+      "AssetFile": "js/product.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1708"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/x7eC/wlLMsY6KWQ8KbVt1d4i6PcUx3ejAic+epNtUw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 22:57:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jj090x1i5l"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/x7eC/wlLMsY6KWQ8KbVt1d4i6PcUx3ejAic+epNtUw="
+        },
+        {
+          "Name": "label",
+          "Value": "js/product.js"
+        }
+      ]
+    },
+    {
+      "Route": "js/product.js",
+      "AssetFile": "js/product.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1708"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/x7eC/wlLMsY6KWQ8KbVt1d4i6PcUx3ejAic+epNtUw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 22:57:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/x7eC/wlLMsY6KWQ8KbVt1d4i6PcUx3ejAic+epNtUw="
         }
       ]
     },

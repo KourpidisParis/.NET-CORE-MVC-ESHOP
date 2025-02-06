@@ -10,3 +10,4 @@ C:\Users\user\source\repos\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.dl
 C:\Users\user\source\repos\Bulky\Bulky.Utility\obj\Debug\net8.0\refint\Bulky.Utility.dll
 C:\Users\user\source\repos\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.pdb
 C:\Users\user\source\repos\Bulky\Bulky.Utility\obj\Debug\net8.0\ref\Bulky.Utility.dll
+C:\Users\user\source\repos\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.csproj.AssemblyReference.cache

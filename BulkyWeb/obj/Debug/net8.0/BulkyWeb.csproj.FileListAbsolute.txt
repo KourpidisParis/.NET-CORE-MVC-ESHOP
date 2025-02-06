@@ -335,3 +335,5 @@ C:\Users\user\source\repos\Bulky\BulkyWeb\bin\Debug\net8.0\runtimes\win\lib\net7
 C:\Users\user\source\repos\Bulky\BulkyWeb\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\user\source\repos\Bulky\BulkyWeb\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\user\source\repos\Bulky\BulkyWeb\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\user\source\repos\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.Utility.dll
+C:\Users\user\source\repos\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.Utility.pdb

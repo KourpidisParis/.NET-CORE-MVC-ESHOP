@@ -9,6 +9,7 @@
       "BulkyWeb/1.0.0": {
         "dependencies": {
           "Bulky.DataAccess": "1.0.0",
+          "Bulky.Utility": "1.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.12",
           "Microsoft.AspNetCore.Identity.UI": "8.0.11",
           "Microsoft.AspNetCore.Mvc.ViewFeatures": "2.3.0",
@@ -2638,6 +2639,20 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "Bulky.Utility/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.12",
+          "Microsoft.AspNetCore.Identity.UI": "8.0.11",
+          "Microsoft.AspNetCore.Mvc.ViewFeatures": "2.3.0",
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.7"
+        },
+        "runtime": {
+          "Bulky.Utility.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -4144,6 +4159,11 @@
       "sha512": ""
     },
     "Bulky.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bulky.Utility/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

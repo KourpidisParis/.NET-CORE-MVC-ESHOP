@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+eQL81DgcEEOBLOzx8sa+Vgtw6BUiKWBFQArudjnvZQ=",
+  "Hash": "QA1L/qElm9AXzGd07M8Oe9JtZFvgQYkoeNIAgRNJPtY=",
   "Source": "BulkyWeb",
   "BasePath": "_content/BulkyWeb",
   "Mode": "Default",
@@ -1333,8 +1333,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "wkp9aim6gq",
-      "Integrity": "QGTQevBjEbvqKbOMqnqhsTKcxolOm6XOIyl+yTfk/qg=",
+      "Fingerprint": "7x7e48lyxg",
+      "Integrity": "m5N3eWJoY5gI7HdewTwi4o4da/Elmpv8NajpNaWJLNM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2808,6 +2808,51 @@
       ]
     },
     {
+      "Route": "css/site.7x7e48lyxg.css",
+      "AssetFile": "C:\\Users\\user\\source\\repos\\Bulky\\BulkyWeb\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12098"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m5N3eWJoY5gI7HdewTwi4o4da/Elmpv8NajpNaWJLNM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Feb 2025 17:20:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7x7e48lyxg"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-m5N3eWJoY5gI7HdewTwi4o4da/Elmpv8NajpNaWJLNM="
+        }
+      ]
+    },
+    {
       "Route": "css/site.css",
       "AssetFile": "C:\\Users\\user\\source\\repos\\Bulky\\BulkyWeb\\wwwroot\\css\\site.css",
       "Selectors": [],
@@ -2818,7 +2863,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11912"
+          "Value": "12098"
         },
         {
           "Name": "Content-Type",
@@ -2826,11 +2871,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"QGTQevBjEbvqKbOMqnqhsTKcxolOm6XOIyl+yTfk/qg=\""
+          "Value": "\"m5N3eWJoY5gI7HdewTwi4o4da/Elmpv8NajpNaWJLNM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 12:24:30 GMT"
+          "Value": "Sat, 08 Feb 2025 17:20:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2840,52 +2885,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-QGTQevBjEbvqKbOMqnqhsTKcxolOm6XOIyl+yTfk/qg="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.wkp9aim6gq.css",
-      "AssetFile": "C:\\Users\\user\\source\\repos\\Bulky\\BulkyWeb\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "11912"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"QGTQevBjEbvqKbOMqnqhsTKcxolOm6XOIyl+yTfk/qg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 12:24:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "wkp9aim6gq"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-QGTQevBjEbvqKbOMqnqhsTKcxolOm6XOIyl+yTfk/qg="
+          "Value": "sha256-m5N3eWJoY5gI7HdewTwi4o4da/Elmpv8NajpNaWJLNM="
         }
       ]
     },

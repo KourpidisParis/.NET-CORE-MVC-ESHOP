@@ -28,6 +28,7 @@
                         <li class="nav-item">
                             <a class="nav-link" asp-area="Customer" asp-controller="Home" asp-action="Privacy">Privacy</a>
                         </li>
+                        @if(User.IsInRole(SD.Role_Admin)){
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                 Content Management
@@ -41,6 +42,7 @@
                                 </li>
                             </ul>
                         </li>
+                        }
                     </ul>
                     <partial name="_LoginPartial"></partial>
                 </div>
@@ -54,7 +56,7 @@
         </main>
     </div>
 
-    <footer class="border-top bg-primary footer text-muted">
+    <footer class="border-top bg-primary footer text-white">
         <div class="container text-center">
             Made with <i class="bi bi-heart-fill"></i> by Paris Kourpidis
         </div>

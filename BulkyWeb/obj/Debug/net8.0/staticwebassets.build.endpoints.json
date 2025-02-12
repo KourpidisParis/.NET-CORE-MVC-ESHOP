@@ -2633,6 +2633,88 @@
       ]
     },
     {
+      "Route": "js/company.c0whvdzpxb.js",
+      "AssetFile": "js/company.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1708"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tABujJNAyWLM53r9bwjisLMkisBYHCVHBNIIKVfIkZM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 21:12:17 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c0whvdzpxb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tABujJNAyWLM53r9bwjisLMkisBYHCVHBNIIKVfIkZM="
+        },
+        {
+          "Name": "label",
+          "Value": "js/company.js"
+        }
+      ]
+    },
+    {
+      "Route": "js/company.js",
+      "AssetFile": "js/company.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1708"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tABujJNAyWLM53r9bwjisLMkisBYHCVHBNIIKVfIkZM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 21:12:17 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tABujJNAyWLM53r9bwjisLMkisBYHCVHBNIIKVfIkZM="
+        }
+      ]
+    },
+    {
       "Route": "js/product.jj090x1i5l.js",
       "AssetFile": "js/product.js",
       "Selectors": [],

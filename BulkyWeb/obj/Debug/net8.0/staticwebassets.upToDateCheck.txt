@@ -2,6 +2,7 @@ wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\images\product\6a2511cf-8559-4347-a756-faad41a18add.png
 wwwroot\images\product\ebf6f1cc-abd9-4a0c-99fc-20329eb10230.png
+wwwroot\js\company.js
 wwwroot\js\product.js
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css

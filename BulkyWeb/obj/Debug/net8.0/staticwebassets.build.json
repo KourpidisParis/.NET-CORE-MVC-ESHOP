@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QA1L/qElm9AXzGd07M8Oe9JtZFvgQYkoeNIAgRNJPtY=",
+  "Hash": "TUW+uFMb6E8jD376Q7N/VtN37PbGn9NbOOG5PKxgQU0=",
   "Source": "BulkyWeb",
   "BasePath": "_content/BulkyWeb",
   "Mode": "Default",
@@ -1401,6 +1401,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\product\\ebf6f1cc-abd9-4a0c-99fc-20329eb10230.png"
+    },
+    {
+      "Identity": "C:\\Users\\user\\source\\repos\\Bulky\\BulkyWeb\\wwwroot\\js\\company.js",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\source\\repos\\Bulky\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "js/company#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "c0whvdzpxb",
+      "Integrity": "tABujJNAyWLM53r9bwjisLMkisBYHCVHBNIIKVfIkZM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\company.js"
     },
     {
       "Identity": "C:\\Users\\user\\source\\repos\\Bulky\\BulkyWeb\\wwwroot\\js\\product.js",
@@ -5352,6 +5373,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-rzsMtgmMnNxU7Koo1T6qNAeonziLcUdLkIl2ZCx4w5w="
+        }
+      ]
+    },
+    {
+      "Route": "js/company.c0whvdzpxb.js",
+      "AssetFile": "C:\\Users\\user\\source\\repos\\Bulky\\BulkyWeb\\wwwroot\\js\\company.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1708"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tABujJNAyWLM53r9bwjisLMkisBYHCVHBNIIKVfIkZM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 21:12:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c0whvdzpxb"
+        },
+        {
+          "Name": "label",
+          "Value": "js/company.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tABujJNAyWLM53r9bwjisLMkisBYHCVHBNIIKVfIkZM="
+        }
+      ]
+    },
+    {
+      "Route": "js/company.js",
+      "AssetFile": "C:\\Users\\user\\source\\repos\\Bulky\\BulkyWeb\\wwwroot\\js\\company.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1708"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tABujJNAyWLM53r9bwjisLMkisBYHCVHBNIIKVfIkZM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 21:12:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tABujJNAyWLM53r9bwjisLMkisBYHCVHBNIIKVfIkZM="
         }
       ]
     },

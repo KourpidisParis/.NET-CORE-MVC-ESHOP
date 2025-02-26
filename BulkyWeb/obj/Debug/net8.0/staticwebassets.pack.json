@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\user\\source\\repos\\Bulky\\BulkyWeb\\wwwroot\\images\\book.png",
+      "PackagePath": "staticwebassets\\images\\book.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\Bulky\\BulkyWeb\\wwwroot\\images\\lawn_leaf.jpg",
+      "PackagePath": "staticwebassets\\images\\lawn_leaf.jpg"
+    },
+    {
       "Id": "C:\\Users\\user\\source\\repos\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\6a2511cf-8559-4347-a756-faad41a18add.png",
       "PackagePath": "staticwebassets\\images\\product\\6a2511cf-8559-4347-a756-faad41a18add.png"
     },

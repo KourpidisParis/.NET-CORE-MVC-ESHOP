@@ -96,6 +96,18 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-tABujJNAyWLM53r9bwjisLMkisBYHCVHBNIIKVfIkZM="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1708"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022tABujJNAyWLM53r9bwjisLMkisBYHCVHBNIIKVfIkZM=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Feb 2025 21:12:17 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BulkyWeb/js/order.4s0voalshg.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\order.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4s0voalshg"},{"Name":"integrity","Value":"sha256-TBqM8fFHdaGvEn6NcAM2Fe0gknvOTPTb/wbHDTXmyKA="},{"Name":"label","Value":"_content/BulkyWeb/js/order.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1582"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022TBqM8fFHdaGvEn6NcAM2Fe0gknvOTPTb/wbHDTXmyKA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 28 Feb 2025 18:55:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BulkyWeb/js/order.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\order.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-TBqM8fFHdaGvEn6NcAM2Fe0gknvOTPTb/wbHDTXmyKA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1582"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022TBqM8fFHdaGvEn6NcAM2Fe0gknvOTPTb/wbHDTXmyKA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 28 Feb 2025 18:55:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BulkyWeb/js/product.jj090x1i5l.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\product.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

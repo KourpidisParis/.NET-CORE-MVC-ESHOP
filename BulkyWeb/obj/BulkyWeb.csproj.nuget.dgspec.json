@@ -34,6 +34,9 @@
             "projectReferences": {
               "C:\\Users\\user\\source\\repos\\Bulky\\Bulky.Models\\Bulky.Models.csproj": {
                 "projectPath": "C:\\Users\\user\\source\\repos\\Bulky\\Bulky.Models\\Bulky.Models.csproj"
+              },
+              "C:\\Users\\user\\source\\repos\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj": {
+                "projectPath": "C:\\Users\\user\\source\\repos\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj"
               }
             }
           }

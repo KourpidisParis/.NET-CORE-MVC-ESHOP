@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Identity.UI.Services;
 using Bulky.Utility;
 using Bulky.DataAccess.DbInitializer;
 using BulkyBook.DataAccess.DbInitializer;
+using BulkyBook.Utility;
 
 var builder = WebApplication.CreateBuilder(args);
 
